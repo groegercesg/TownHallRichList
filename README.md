@@ -6,6 +6,10 @@ Map of the 2023 data:
 
 ![Town Hall Rich List 2023](results/thrl_2023.png)
 
+## Process
+
+We have the raw data stored in the ``data`` folder, we process it into an acceptable format and store it as ``.pkl`` in the ``pickles`` folder.
+
 ## Setup
 
 ### Setup the Environment
