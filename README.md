@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Get the Shapefiles
 
-The repository doesn't come with them, due to them being large, these can be sourced from [here](https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2022-uk-bfe-v3-1/about)
+The repository doesn't come with them, due to them being large, these can be sourced from [here](https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-may-2021-uk-bfe-1/about)
 
 And put them into a folder called ``shapefiles``
 
