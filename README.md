@@ -10,7 +10,7 @@ Nonetheless, the data appears to be wholly accurate, formed of FOI requests and 
 
 **Visualisation of data from the Past 10 Years:**
 
-![Town Hall Rich List Past 10](results/static_version.gif)
+![Town Hall Rich List Past 10](results/dynamic_version.gif)
 
 **Map of the 2023 data:**
 
